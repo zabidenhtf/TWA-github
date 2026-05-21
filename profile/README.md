@@ -1,5 +1,5 @@
-![Logo](../assets/logo.png)
-![Collage](../assets/collage.png)
+<img src="../assets/logo.png" width="512">
+<img src="../assets/collage.png" width="486">
 ================
 # 🇬🇧 English:
 
